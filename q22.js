@@ -1,0 +1,17 @@
+var x = 5;
+var y = 10;
+console.log("Test 1: Is X Greater Than Y?");
+console.log("Prediction:False");
+console.log(x > y);
+console.log("Test 2:Is X is less than or equal to y");
+console.log("Prediction:True");
+console.log(x <= y);
+console.log("Test 3: Is x equal to y");
+console.log("Prediction:False");
+console.log(x === y);
+console.log("Test 4:Is X not equal to y");
+console.log("Prediction:True");
+console.log(x !== y);
+console.log("Test 5:Is sum of x and y greater than 15");
+console.log("Prediction:False");
+console.log(x + y > 15);
